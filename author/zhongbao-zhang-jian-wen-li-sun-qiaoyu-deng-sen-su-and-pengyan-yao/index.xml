@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Zhongbao Zhang, Jian Wen, Li Sun, Qiaoyu Deng, Sen Su and Pengyan Yao | Academic</title>
+    <link>https://kuang002.github.io/author/zhongbao-zhang-jian-wen-li-sun-qiaoyu-deng-sen-su-and-pengyan-yao/</link>
+      <atom:link href="https://kuang002.github.io/author/zhongbao-zhang-jian-wen-li-sun-qiaoyu-deng-sen-su-and-pengyan-yao/index.xml" rel="self" type="application/rss+xml" />
+    <description>Zhongbao Zhang, Jian Wen, Li Sun, Qiaoyu Deng, Sen Su and Pengyan Yao</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <image>
+      <url>https://kuang002.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Zhongbao Zhang, Jian Wen, Li Sun, Qiaoyu Deng, Sen Su and Pengyan Yao</title>
+      <link>https://kuang002.github.io/author/zhongbao-zhang-jian-wen-li-sun-qiaoyu-deng-sen-su-and-pengyan-yao/</link>
+    </image>
+    
+    <item>
+      <title>Efficient incremental dynamic link prediction algorithms in social network</title>
+      <link>https://kuang002.github.io/publication/j11/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://kuang002.github.io/publication/j11/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

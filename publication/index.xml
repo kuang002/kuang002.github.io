@@ -2,69 +2,276 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publications | Academic</title>
-    <link>/publication/</link>
-      <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://kuang002.github.io/publication/</link>
+      <atom:link href="https://kuang002.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://kuang002.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Publications</title>
-      <link>/publication/</link>
+      <link>https://kuang002.github.io/publication/</link>
     </image>
     
     <item>
-      <title>An example preprint / working paper</title>
-      <link>/publication/preprint/</link>
-      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/preprint/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including 
-&lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
-</description>
+      <title> A Self-supervised Riemannian GNN with Time Varying Curvature for Temporal Graph Learning</title>
+      <link>https://kuang002.github.io/publication/c5/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://kuang002.github.io/publication/c5/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>An example journal article</title>
-      <link>/publication/journal-article/</link>
-      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>/publication/journal-article/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+      <title> DeepRicci: Self-supervised Graph Structure-Feature Co-Refinement for Alleviating Over-squashing</title>
+      <link>https://kuang002.github.io/publication/journal-article/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://kuang002.github.io/publication/journal-article/</guid>
+      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
   &lt;/div&gt;
 &lt;/div&gt;
+
+
 &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
   &lt;/div&gt;
 &lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including 
-&lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
+
+
+Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/). --&gt;
 </description>
     </item>
     
     <item>
-      <title>An example conference paper</title>
-      <link>/publication/conference-paper/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>/publication/conference-paper/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+      <title> Enhancing Graph Neural Network-based Fraud Detectors against Camouflaged Fraudsters</title>
+      <link>https://kuang002.github.io/publication/c10/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://kuang002.github.io/publication/c10/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title> MC2:Unsupervised Multiple Social Network Alignment</title>
+      <link>https://kuang002.github.io/publication/c14/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://kuang002.github.io/publication/c14/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title> SINCERE: Sequential Interaction Networks representation learning on Co-Evolving RiEmannian manifolds</title>
+      <link>https://kuang002.github.io/publication/preprint/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://kuang002.github.io/publication/preprint/</guid>
+      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A Self-supervised Mixed-curvature Graph Neural Network</title>
+      <link>https://kuang002.github.io/publication/c6/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://kuang002.github.io/publication/c6/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Survey of Graph Neural Network Recommendation in Social Networks</title>
+      <link>https://kuang002.github.io/publication/j5/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://kuang002.github.io/publication/j5/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Aligning Dynamic Social Networks: An Optimization over Dynamic Graph Autoencoder</title>
+      <link>https://kuang002.github.io/publication/j1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://kuang002.github.io/publication/j1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>BANANA: when Behavior ANAlysis meets social Network Alignment</title>
+      <link>https://kuang002.github.io/publication/c11/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://kuang002.github.io/publication/c11/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Congregate: Contrastive Graph Clustering in Curvature Spaces</title>
+      <link>https://kuang002.github.io/publication/conference-paper/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://kuang002.github.io/publication/conference-paper/</guid>
+      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
   &lt;/div&gt;
 &lt;/div&gt;
+
+
 &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
   &lt;/div&gt;
 &lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including 
-&lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
+
+
+Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/). --&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Contrastive Sequential Interaction Network Learning on Co-Evolving Riemannian Spaces</title>
+      <link>https://kuang002.github.io/publication/j4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://kuang002.github.io/publication/j4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DeepBlue: Bi-layered LSTM for tweet popUlarity Estimation</title>
+      <link>https://kuang002.github.io/publication/c15/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://kuang002.github.io/publication/c15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DeepBlue: Bi-layered LSTM for tweet popUlarity Estimation</title>
+      <link>https://kuang002.github.io/publication/j7/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://kuang002.github.io/publication/j7/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DiriE: Knowledge Graph Embedding with Dirichlet Distribution</title>
+      <link>https://kuang002.github.io/publication/c9/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://kuang002.github.io/publication/c9/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dynamic Social Network Alignment</title>
+      <link>https://kuang002.github.io/publication/c13/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://kuang002.github.io/publication/c13/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Efficient incremental dynamic link prediction algorithms in social network</title>
+      <link>https://kuang002.github.io/publication/j11/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://kuang002.github.io/publication/j11/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fair-Aware Competitive Event Influence Maximization in Social Networks</title>
+      <link>https://kuang002.github.io/publication/j10/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://kuang002.github.io/publication/j10/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Graph-Bert: Only Attention is Needed for Learning Graph Representations</title>
+      <link>https://kuang002.github.io/publication/p1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://kuang002.github.io/publication/p1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GroupAligner: A Deep Reinforcement Learning with Domain Adaptation for Social Group Alignment</title>
+      <link>https://kuang002.github.io/publication/j3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://kuang002.github.io/publication/j3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hyperbolic User Identity Linkage    across Social Networks</title>
+      <link>https://kuang002.github.io/publication/c12/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://kuang002.github.io/publication/c12/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hyperbolic Variational Graph Neural Network for Modeling Dynamic Graphs</title>
+      <link>https://kuang002.github.io/publication/c7/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://kuang002.github.io/publication/c7/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Inductive and irregular dynamic network representation based on ordinary differential equations</title>
+      <link>https://kuang002.github.io/publication/j9/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://kuang002.github.io/publication/j9/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MASTER: across Multiple social networks, integrate Attribute and STructure Embedding for Reconciliation</title>
+      <link>https://kuang002.github.io/publication/c16/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://kuang002.github.io/publication/c16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MC2:Unsupervised Multiple Social Network Alignment</title>
+      <link>https://kuang002.github.io/publication/j2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://kuang002.github.io/publication/j2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PERFECT: A Hyperbolic Embedding for Joint User and Community Alignment</title>
+      <link>https://kuang002.github.io/publication/c8/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://kuang002.github.io/publication/c8/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reconciling Multiple Social Networks Effectively and Efficiently: An Embedding Approac</title>
+      <link>https://kuang002.github.io/publication/j8/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://kuang002.github.io/publication/j8/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Self-supervised Continual Graph Learning in Adaptive Riemannian Spaces</title>
+      <link>https://kuang002.github.io/publication/c4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://kuang002.github.io/publication/c4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>When Behavior Analysis Meets Social Network Alignment</title>
+      <link>https://kuang002.github.io/publication/j6/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://kuang002.github.io/publication/j6/</guid>
+      <description></description>
     </item>
     
   </channel>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jiawei Zhang, Haopeng Zhang, Congying Xia, Li Sun | Academic</title>
+    <link>https://kuang002.github.io/author/jiawei-zhang-haopeng-zhang-congying-xia-li-sun/</link>
+      <atom:link href="https://kuang002.github.io/author/jiawei-zhang-haopeng-zhang-congying-xia-li-sun/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jiawei Zhang, Haopeng Zhang, Congying Xia, Li Sun</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <image>
+      <url>https://kuang002.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Jiawei Zhang, Haopeng Zhang, Congying Xia, Li Sun</title>
+      <link>https://kuang002.github.io/author/jiawei-zhang-haopeng-zhang-congying-xia-li-sun/</link>
+    </image>
+    
+    <item>
+      <title>Graph-Bert: Only Attention is Needed for Learning Graph Representations</title>
+      <link>https://kuang002.github.io/publication/p1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://kuang002.github.io/publication/p1/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

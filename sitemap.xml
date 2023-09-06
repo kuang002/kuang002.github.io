@@ -2,115 +2,216 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/courses/example/example1/</loc>
+    <loc>https://kuang002.github.io/courses/example/example1/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url><url>
-    <loc>/courses/example/</loc>
+    <loc>https://kuang002.github.io/courses/example/</loc>
     <lastmod>2018-09-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/courses/example/example2/</loc>
+    <loc>https://kuang002.github.io/courses/example/example2/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url><url>
-    <loc>/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+    <loc>https://kuang002.github.io/</loc>
+    <lastmod>2023-09-05T01:01:32+08:00</lastmod>
   </url><url>
-    <loc>/talk/example/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+    <loc>https://kuang002.github.io/blog/</loc>
+    <lastmod>2023-09-05T01:01:32+08:00</lastmod>
   </url><url>
-    <loc>/talk/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+    <loc>https://kuang002.github.io/blog/text1/</loc>
+    <lastmod>2023-09-05T01:01:32+08:00</lastmod>
   </url><url>
-    <loc>/post/</loc>
+    <loc>https://kuang002.github.io/post/</loc>
     <lastmod>2019-09-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/post/writing-technical-content/</loc>
+    <loc>https://kuang002.github.io/post/writing-technical-content/</loc>
     <lastmod>2019-07-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/courses/</loc>
+    <loc>https://kuang002.github.io/courses/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url><url>
-    <loc>/publication-type/3/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/publication/preprint/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/authors/</loc>
+    <loc>https://kuang002.github.io/authors/</loc>
     <lastmod>2019-09-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/author/nelson-bighetti/</loc>
+    <loc>https://kuang002.github.io/post/jupyter/</loc>
     <lastmod>2019-09-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/publication_types/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/publication/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tag/source-themes/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/post/jupyter/</loc>
+    <loc>https://kuang002.github.io/author/li-sun/</loc>
     <lastmod>2019-09-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/slides/</loc>
+    <loc>https://kuang002.github.io/slides/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/slides/example/</loc>
+    <loc>https://kuang002.github.io/slides/example/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tag/deep-learning/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tag/demo/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/project/external-project/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/project/internal-project/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/project/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tag/academic/</loc>
+    <loc>https://kuang002.github.io/tag/academic/</loc>
     <lastmod>2019-04-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/post/getting-started/</loc>
+    <loc>https://kuang002.github.io/post/getting-started/</loc>
     <lastmod>2019-04-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/categories/</loc>
+    <loc>https://kuang002.github.io/categories/</loc>
     <lastmod>2019-04-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/category/demo/</loc>
+    <loc>https://kuang002.github.io/category/demo/</loc>
     <lastmod>2019-04-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/author/%E5%90%B3%E6%81%A9%E9%81%94/</loc>
+    <loc>https://kuang002.github.io/tags/</loc>
     <lastmod>2019-04-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tag/%E5%BC%80%E6%BA%90/</loc>
+    <loc>https://kuang002.github.io/author/%E5%90%B3%E6%81%A9%E9%81%94/</loc>
     <lastmod>2019-04-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/category/%E6%95%99%E7%A8%8B/</loc>
+    <loc>https://kuang002.github.io/tag/%E5%BC%80%E6%BA%90/</loc>
     <lastmod>2019-04-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/publication-type/2/</loc>
-    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
+    <loc>https://kuang002.github.io/category/%E6%95%99%E7%A8%8B/</loc>
+    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/publication/journal-article/</loc>
-    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
+    <loc>https://kuang002.github.io/publication/c5/</loc>
   </url><url>
-    <loc>/author/robert-ford/</loc>
-    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
+    <loc>https://kuang002.github.io/publication/journal-article/</loc>
   </url><url>
-    <loc>/publication-type/1/</loc>
-    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
+    <loc>https://kuang002.github.io/publication/c10/</loc>
   </url><url>
-    <loc>/publication/conference-paper/</loc>
-    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
+    <loc>https://kuang002.github.io/publication/c14/</loc>
+  </url><url>
+    <loc>https://kuang002.github.io/publication/preprint/</loc>
+  </url><url>
+    <loc>https://kuang002.github.io/publication-type/1/</loc>
+  </url><url>
+    <loc>https://kuang002.github.io/publication-type/2/</loc>
+  </url><url>
+    <loc>https://kuang002.github.io/publication-type/3/</loc>
+  </url><url>
+    <loc>https://kuang002.github.io/publication/c6/</loc>
+  </url><url>
+    <loc>https://kuang002.github.io/publication/j5/</loc>
+  </url><url>
+    <loc>https://kuang002.github.io/publication/j1/</loc>
+  </url><url>
+    <loc>https://kuang002.github.io/publication/c11/</loc>
+  </url><url>
+    <loc>https://kuang002.github.io/publication/conference-paper/</loc>
+  </url><url>
+    <loc>https://kuang002.github.io/publication/j4/</loc>
+  </url><url>
+    <loc>https://kuang002.github.io/publication/c15/</loc>
+  </url><url>
+    <loc>https://kuang002.github.io/publication/j7/</loc>
+  </url><url>
+    <loc>https://kuang002.github.io/publication/c9/</loc>
+  </url><url>
+    <loc>https://kuang002.github.io/publication/c13/</loc>
+  </url><url>
+    <loc>https://kuang002.github.io/publication/j11/</loc>
+  </url><url>
+    <loc>https://kuang002.github.io/publication/j10/</loc>
+  </url><url>
+    <loc>https://kuang002.github.io/author/feiyang-wang/</loc>
+  </url><url>
+    <loc>https://kuang002.github.io/author/feiyang-wang-li-sun-and-zhongbao-zhang/</loc>
+  </url><url>
+    <loc>https://kuang002.github.io/author/feiyang-wang-zhongbao-zhang-li-sun-junda-ye-and-yang-yan/</loc>
+  </url><url>
+    <loc>https://kuang002.github.io/project/external-project/</loc>
+  </url><url>
+    <loc>https://kuang002.github.io/author/fuxin-ren/</loc>
+  </url><url>
+    <loc>https://kuang002.github.io/author/fuxin-ren-zhongbao-zhang-jiawei-zhang-sen-su/</loc>
+  </url><url>
+    <loc>https://kuang002.github.io/author/gen-li-li-sun-zhongbao-zhang-pengxin-ji-sen-su-and-philip-s.-yu/</loc>
+  </url><url>
+    <loc>https://kuang002.github.io/publication/p1/</loc>
+  </url><url>
+    <loc>https://kuang002.github.io/publication/j3/</loc>
+  </url><url>
+    <loc>https://kuang002.github.io/author/huafeng-cao-zhongbao-zhang-li-sun-and-zhi-wang/</loc>
+  </url><url>
+    <loc>https://kuang002.github.io/publication/c12/</loc>
+  </url><url>
+    <loc>https://kuang002.github.io/publication/c7/</loc>
+  </url><url>
+    <loc>https://kuang002.github.io/publication/j9/</loc>
+  </url><url>
+    <loc>https://kuang002.github.io/author/jian-wen-zhongbao-zhang-zichang-yin-li-sun-sen-su-and-philip-s.-yu/</loc>
+  </url><url>
+    <loc>https://kuang002.github.io/author/jiawei-zhang-haopeng-zhang-congying-xia-li-sun/</loc>
+  </url><url>
+    <loc>https://kuang002.github.io/author/junda-ye/</loc>
+  </url><url>
+    <loc>https://kuang002.github.io/author/li-sun/</loc>
+  </url><url>
+    <loc>https://kuang002.github.io/author/li-sun-feiyang-wang-junda-ye-hao-peng-and-philip-s.-yu/</loc>
+  </url><url>
+    <loc>https://kuang002.github.io/author/li-sun-junda-ye-hao-peng-and-philip-s.-yu/</loc>
+  </url><url>
+    <loc>https://kuang002.github.io/author/li-sun-junda-ye-hao-peng-feiyang-wang-and-philip-s.-yu/</loc>
+  </url><url>
+    <loc>https://kuang002.github.io/author/li-sun-junda-ye-jiawei-zhang-yong-yang-mingchen-liang-feiyang-wang-and-philip-s.-yu/</loc>
+  </url><url>
+    <loc>https://kuang002.github.io/author/li-sun-yang-du-shuai-gao-junda-ye-feiyang-wang-fuxin-ren-mingchen-liang-yue-wang-and-shuhai-wang/</loc>
+  </url><url>
+    <loc>https://kuang002.github.io/author/li-sun-zhenhao-huang-hua-wu-junda-ye-hao-peng-zhengtao-yu-and-philip-s.yu/</loc>
+  </url><url>
+    <loc>https://kuang002.github.io/author/li-sun-zhongbao-zhang-feiyang-wang-pengxin-ji-jian-wen-sen-su-and-philip-s.-yu/</loc>
+  </url><url>
+    <loc>https://kuang002.github.io/author/li-sun-zhongbao-zhang-gen-li-pengxin-ji-sen-su-and-philip-s.-yu/</loc>
+  </url><url>
+    <loc>https://kuang002.github.io/author/li-sun-zhongbao-zhang-jiawei-zhang-feiyang-wang-hao-peng-sen-su-and-philip-s.-yu/</loc>
+  </url><url>
+    <loc>https://kuang002.github.io/author/li-sun-zhongbao-zhang-jiawei-zhang-feiyang-wang-yang-du-sen-su-and-philip-s.-yu/</loc>
+  </url><url>
+    <loc>https://kuang002.github.io/author/li-sun-zhongbao-zhang-junda-ye-hao-peng-jiawei-zhang-sen-su-and-philip-s.-yu/</loc>
+  </url><url>
+    <loc>https://kuang002.github.io/author/li-sun-zhongbao-zhang-pengxin-ji-jian-wen-sen-su-and-philip-s.-yu/</loc>
+  </url><url>
+    <loc>https://kuang002.github.io/publication/c16/</loc>
+  </url><url>
+    <loc>https://kuang002.github.io/publication/j2/</loc>
+  </url><url>
+    <loc>https://kuang002.github.io/project/internal-project/</loc>
+  </url><url>
+    <loc>https://kuang002.github.io/talk/example/</loc>
+  </url><url>
+    <loc>https://kuang002.github.io/publication/c8/</loc>
+  </url><url>
+    <loc>https://kuang002.github.io/talk/talk3/</loc>
+  </url><url>
+    <loc>https://kuang002.github.io/project/</loc>
+  </url><url>
+    <loc>https://kuang002.github.io/publication_types/</loc>
+  </url><url>
+    <loc>https://kuang002.github.io/publication/</loc>
+  </url><url>
+    <loc>https://kuang002.github.io/talk/</loc>
+  </url><url>
+    <loc>https://kuang002.github.io/publication/j8/</loc>
+  </url><url>
+    <loc>https://kuang002.github.io/talk/talk2/</loc>
+  </url><url>
+    <loc>https://kuang002.github.io/publication/c4/</loc>
+  </url><url>
+    <loc>https://kuang002.github.io/author/sen-su-li-sun-zhongbao-zhang-gen-li-and-jielun-qu/</loc>
+  </url><url>
+    <loc>https://kuang002.github.io/author/siyuan-gao-zhongbao-zhang-sen-su-jian-wen-and-li-sun/</loc>
+  </url><url>
+    <loc>https://kuang002.github.io/publication/j6/</loc>
+  </url><url>
+    <loc>https://kuang002.github.io/author/xiao-li-li-sun-mengjie-ling-yan-peng/</loc>
+  </url><url>
+    <loc>https://kuang002.github.io/author/yang-yan/</loc>
+  </url><url>
+    <loc>https://kuang002.github.io/author/yingtong-dou-zhiwei-liu-li-sunyutong-deng-hao-peng-and-philip-s.-yu/</loc>
+  </url><url>
+    <loc>https://kuang002.github.io/author/zhongbao-zhang/</loc>
+  </url><url>
+    <loc>https://kuang002.github.io/author/zhongbao-zhang-fuxin-ren-jiawei-zhang-sen-su-yang-yan-qian-wei-li-sun-guozhen-zhu-congying-guo/</loc>
+  </url><url>
+    <loc>https://kuang002.github.io/author/zhongbao-zhang-jian-wen-li-sun-qiaoyu-deng-sen-su-and-pengyan-yao/</loc>
+  </url><url>
+    <loc>https://kuang002.github.io/author/zhongbao-zhang-li-sun-sen-su-jielun-qu-and-gen-li/</loc>
+  </url><url>
+    <loc>https://kuang002.github.io/author/zhongbao-zhang-zichang-yin-jian-wen-li-sun-sen-su-and-philip-s.-yu/</loc>
   </url>
 </urlset>
